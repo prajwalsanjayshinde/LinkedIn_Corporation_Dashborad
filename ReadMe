@@ -1,0 +1,79 @@
+# LinkedIn Business Intelligence: Student Career Guidance
+
+## 📊 Project Overview
+
+This project aims to enhance LinkedIn's engagement with student users by providing actionable, data-driven career insights through business intelligence (BI) dashboards and predictive analytics. Our solution supports students in navigating job markets, identifying in-demand skills, and aligning educational goals with industry trends.
+
+## 🚀 Objective
+
+Many students struggle to start their career journey due to lack of guidance on what roles to pursue, what skills to develop, and where to look for opportunities. Our project uses internal LinkedIn data, machine learning models, and visual analytics to:
+
+- Recommend career paths based on job market trends
+- Predict salaries for student-level roles
+- Highlight top hiring companies and in-demand skills by region
+
+## 💡 Proposed BI Solution
+
+We developed three core BI prototypes:
+
+### 1. **Student Job Market Explorer**
+- Visualizes job postings by industry, skill, and location
+- Includes interactive filters for experience level, work type, and region
+- Identifies high-demand skills and job-rich areas
+
+### 2. **Employer & Skill Demand Dashboard**
+- Highlights top hiring companies for students
+- Maps skill demand across U.S. states
+- Tracks engagement levels by role and industry
+
+### 3. **Predictive Salary Model**
+- Trained using LinkedIn job post data with features from skills and benefits
+- Uses Random Forest and Gradient Boosting
+- Evaluated with R² and RMSE metrics to ensure accuracy
+
+## 🧠 Tools & Technologies
+
+- **Data Visualization:** Tableau
+- **Data Processing & Modeling:** Python (Pandas, Scikit-learn)
+- **ETL Pipeline:** Structured extraction from LinkedIn datasets
+- **BI Framework:** Data engineering, predictive modeling, and visual storytelling
+
+## 🔍 Case Studies Referenced
+
+- **Glassdoor Sentiment Analysis:** Employee satisfaction dashboards
+- **Indeed Analytics:** Real-time job posting and skills trends
+
+## 🛠 Implementation Phases
+
+1. **Data Collection & Cleaning**
+2. **Feature Engineering**
+3. **Model Training & Validation**
+4. **Dashboard Development**
+5. **Insight Extraction & Deployment**
+
+## 📈 Impact & Value
+
+- Personalized job and skill recommendations for students
+- Improved engagement between universities, students, and employers
+- Aligned educational content with market needs
+- Extended value of LinkedIn Learning for early-career users
+
+## 🧩 Challenges Addressed
+
+- Inconsistent data across job postings
+- Limited salary benchmarks for entry-level roles
+- Potential model biases based on historical trends
+
+## 🔮 Opportunities
+
+- Increase LinkedIn's student user base
+- Strengthen employer-university partnerships
+- Promote career-readiness through targeted insights
+
+
+## 📬 Contact
+Email - pshinde2@wpi.edu
+For questions or collaboration opportunities, feel free to reach out via [LinkedIn](https://www.linkedin.com/) or through GitHub issues.
+
+---
+
